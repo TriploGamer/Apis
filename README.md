@@ -1,4 +1,4 @@
-# </Infinity Bot V5/>
+# </Lz Base Api V1/>
 <div align="center">
 </div>
 <p align="center">
@@ -21,13 +21,16 @@ Uma Base Simples Para Devs.
 
 em breve a v2 com varias novas api's :)
 ```
-- [Caso Queira Baixar o Zip Do Rest ( Clique Aqui)](https://www.mediafire.com/file/fn2p9ipc15cj0fi/Comandos_InfinityBot.txt/file)
+
+- [Video Ensinando Como Instalar ( Clique Aqui )](https://youtube.com)
+    
+- [Caso Queira Baixar o Zip Do Rest ( Clique Aqui )](https://www.mediafire.com/file/72x5a5vsugrfq6p/lz-base-api.zip/file)
  
 ----------- Para Duvidas -----------
     
 caso duvidas entre em contato! ( Clique Em Cima )
     
-- [Meu Grupo (Para Duvidas & Usar os Bots De La) Entrae :)](https://chat.whatsapp.com/DPZKtPOZvUBIsaluTNB5rh)
+- [Meu Grupo (Para Duvidas & Usar os Bots De La) Entrae :)](https://chat.whatsapp.com/JBT2aiwoDN25uNMUdoib94)
     
 - [Meu Zap](https://wa.me/5562991514026)
 
@@ -40,10 +43,8 @@ caso duvidas entre em contato! ( Clique Em Cima )
 - [Baixar Acode Pro ( Clique )](https://www.mediafire.com/file/39o3dijk4tqyk2f/Acode_base.apk/file)
     
   ------------------------------------------------------------------------------------
-       </Como Instalar o Bot De Instagram/> 
+       </Como Instalar e Upar a Base/> 
 ```bash
-
-commandos nescessarios para instalar:
 
 termux-setup-storage
 apt update -y
@@ -51,12 +52,19 @@ apt upgrade -y
 pkg install git -y
 pkg install nodejs -y
 pkg install nodejs-lts -y
-
----------------------------
+npm i -g npm@6 && npm i heroku -g
  
 cd /sdcard
-git clone https://github.com/lzmodsoficial/SrLZ.git
-cd insta-bot
+git clone https://github.com/lzmodsoficial/lzbase-api.git
+cd lz-base-api
+rm -rf .git
+git init
+heroku login
+heroku git:remote -a NOMEDOAPP
+git add .
+git commit -am "lzmods"
+git push heroku master
+
 node lz
     
 ``` 
