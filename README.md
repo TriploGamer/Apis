@@ -56,7 +56,7 @@ npm i -g npm@6 && npm i heroku -g
  
 cd /sdcard
 git clone https://github.com/lzmodsoficial/lzbase-api.git
-cd lz-base-api
+cd lzbase-api
 rm -rf .git
 git init
 heroku login
