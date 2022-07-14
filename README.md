@@ -19,7 +19,7 @@ Uma Base Simples Para Devs.
 - Canvas
 - Nsfw
 
-em breve a v2 com varias novas api's :)
+quando bater 800 inscritos eu solto a v2 com varias novas api's :)
 ```
 
 - [Video Ensinando Como Instalar ( Clique Aqui )](https://youtube.com)
@@ -64,8 +64,6 @@ heroku git:remote -a NOMEDOAPP
 git add .
 git commit -am "lzmods"
 git push heroku master
-
-node lz
     
 ``` 
 
