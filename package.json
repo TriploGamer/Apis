@@ -1,0 +1,36 @@
+{
+  "name": "restbase-bylz",
+  "version": "1.1.0",
+  "description": "RUMO AOS 1K DE INSCRITOS",
+  "main": "connect.js",
+  "scripts": {
+    "start": "node connect.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://git.heroku.com/testesdolz.git"
+  },
+  "keywords": [
+    "whatsappbots",
+    "lzmods",
+    "rest",
+    "api"
+  ],
+  "author": "lz mods",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lzmodsoficial/SrLZ"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1",
+    "morgan": "^1.10.0",
+    "ssl-express-www": "^3.0.7",
+    "canvacord": "^5.1.0",
+    "ytdl-core": "^4.4.5",
+    "yt-search": "^2.7.3"
+  },
+  "homepage": "https://github.com/lzmodsoficial/SrLZ"
+}
