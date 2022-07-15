@@ -7,5 +7,5 @@
 
 </div>
 <p align="center">
-   <a href="https://github.com/lzmodsoficial/lzbase-api"><img title="Infinity Bot" src="https://img.shields.io/badge/Rest-By LZ MODS-red.svg?style=for-the-badge&logo=github" /></a>
+   <a href="https://github.com/TriploGamer/Apis"><img title="NINJABOT-MD" src="https://img.shields.io/badge/Rest-By JerfinhoPro-red.svg?style=for-the-badge&logo=github" /></a>
   <h4 align="center">
