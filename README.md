@@ -1,9 +1,9 @@
-# </Lz Base Api V1/>
+# </Base Api V1/>
 <div align="center">
 </div>
 <p align="center">
   <h4 align="center">
-<img src="https://telegra.ph/file/bee3283fd8aae6cbc6c24.jpg" alt="Infinity Bot V1.0" width="300" />
+<img src="https://telegra.ph/file/8b2c289a0792dc493c99c.jpg" alt="NINJABOT-MD V1.0" width="300" />
 
 </div>
 <p align="center">
